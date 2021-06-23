@@ -1,0 +1,19 @@
+{
+    "maven.view": "hierarchical",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": false,
+            "driver": "MySQL",
+            "name": "MySQL",
+            "database": "enaplodb",
+            "username": "root"
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

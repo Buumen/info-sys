@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EnaploApplication<enaplo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "hu.scs.enaplo.EnaploApplication",
+            "projectName": "enaplo",
+            "args": ""
+        }
+    ]
+}
